@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 soccer_team = ["wow","stan","am","akin","joel","arrays!"]
-update = soccer_team[0,"totally"]
+soccer_team[0] = "brains"
 end
